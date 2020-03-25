@@ -3,6 +3,9 @@
 ```
  python Get_dataset.py --radius 10 --altitude 8 --speed 2 --center "10,0" --iterations 1
 ```
+```
+ python Victim_detector.py
+```
 <p align="center">
   <img src="doc/results.png">
 </p>
