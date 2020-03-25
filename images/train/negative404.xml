@@ -1,0 +1,14 @@
+<annotation verified="yes">
+	<folder>negativeimg</folder>
+	<filename>negative404.png</filename>
+	<path>E:\Object_Detection\Victim_On_Ocean_Ase\Getdataset\fold_dataset\negativeimg\negative404.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

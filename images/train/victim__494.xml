@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>victim__494.png</filename>
+	<path>D:\dataset\victim__494.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>139</ymin>
+			<xmax>279</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+</annotation>

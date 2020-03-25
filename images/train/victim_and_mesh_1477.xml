@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset_victim_and_mesh</folder>
+	<filename>victim_and_mesh_1477.png</filename>
+	<path>E:\Object_Detection\Victim_On_Ocean_Ase\Getdataset\fold_dataset\dataset_victim_and_mesh\victim_and_mesh_1477.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>193</ymin>
+			<xmax>208</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+</annotation>

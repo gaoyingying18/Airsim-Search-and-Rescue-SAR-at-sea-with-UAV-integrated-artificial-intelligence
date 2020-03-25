@@ -1,0 +1,14 @@
+<annotation verified="yes">
+	<folder>dataset_victim_and_mesh</folder>
+	<filename>victim_and_mesh_536.png</filename>
+	<path>E:\Object_Detection\Victim_On_Ocean_Ase\Getdataset\fold_dataset\dataset_victim_and_mesh\victim_and_mesh_536.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
